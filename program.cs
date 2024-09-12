@@ -11,6 +11,6 @@ class Program
         string name = Console.ReadLine();
         
         // Greet the user
-        Console.WriteLine($"Hello, {name}! Welcome to the .NET world.");
+        Console.WriteLine($"Hello, {name}! Welcome to the .NET world!");
     }
 }
